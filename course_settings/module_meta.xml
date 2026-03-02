@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <module identifier="gfce1a3786eaa62208196bf12c1a52ae8">
+    <title>Introduction</title>
+    <workflow_state>active</workflow_state>
+    <position>1</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="ga14bdbfa2373940aa1ce51fca6207b39">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 1.1 - Introduction</title>
+        <identifierref>g8757f5e4ef5411a64bb3388de2607391</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="ga8275691329616b25d84c15f6e5ebd5f">
+    <title>Section 1: Welcome to the ADOBE Creative Cloud</title>
+    <workflow_state>active</workflow_state>
+    <position>2</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g237789d19b58e694b0692cd2358fe7d2">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 1.1 - Download the Software</title>
+        <identifierref>gf33573b3520022434822302480beeb6b</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1f935e3dcc743960d71dda85a9b7f9d3">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Resources 1.1 - ADOBE Help Center</title>
+        <identifierref>g1f935e3dcc743960d71dda85a9b7f9d3</identifierref>
+        <url>https://helpx.adobe.com/support.html</url>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g5813f158bb37af813dd850446193a6c7">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 1.2 - Access the ADOBE Creative Cloud Account</title>
+        <identifierref>ga222e67cee481eb1c419d2da599c0fe8</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gc2a39e3ec416fff1923a0754140091f9">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Resource 1.2 - ADOBE Creative Cloud Storage</title>
+        <identifierref>gc2a39e3ec416fff1923a0754140091f9</identifierref>
+        <url>https://helpx.adobe.com/creative-cloud/apps/work-with-cloud-documents/manage-cloud-storage/track-cloud-storage.html</url>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gdc7037b8387e8c291247398f4edaa1b2">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Resource 1.3 - Manage ADOBE Storage</title>
+        <identifierref>gdc7037b8387e8c291247398f4edaa1b2</identifierref>
+        <url>https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html</url>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ga25c65856f0c7b147c509b39edee3612">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Section 1 Quiz - Knowledge Check: Welcome to the ADOBE Creative Cloud </title>
+        <identifierref>gcef172685a4fe5781187d22ed0ce92b0</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="ge4fce44189ebea8a889a0d68d9331e3b">
+    <title>Section 2: Getting to Know the ADOBE Illustrator Interface</title>
+    <workflow_state>active</workflow_state>
+    <position>3</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="geb9007a3d954a648d8df0286d0fdba09">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 2.1 - Document Settings</title>
+        <identifierref>gdb5e03859788ed43aee60cae3f46411f</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g67b9157404115d9bd3b2a90038e9677e">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 2.2 -Customize the Workspace</title>
+        <identifierref>gd9c87821f03ee46c6f138dfea299d654</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gd438ced9d15d9ec926a25c4e6a627441">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Section 2 Quiz - Knowledge Check: Getting to Know the ADOBE Illustrator Interface</title>
+        <identifierref>g1ba0f56be61f13a1b813c867359dae60</identifierref>
+        <position>3</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="g5b3852df441c1e10c3cee563bdf58e02">
+    <title>Section 3: Vector Graphics and File Types in ADOBE Illustrator</title>
+    <workflow_state>active</workflow_state>
+    <position>4</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g0464859f7ab4cb85a5db3b642108d7df">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 3.1 - Vector Graphics</title>
+        <identifierref>g2c8b0237c4dd5f6c04bb9c0b580e3df9</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gcf694703765e01d4c9e761b4ecf70089">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 3.2 - File Types</title>
+        <identifierref>g237bbe3039624443168dcfdf6cd12ef4</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g1d2406178ac1791a741a3106dcc20bb6">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Section 3 Quiz - Knowledge Check: Vector Graphics and File Types in ADOBE Illustrator</title>
+        <identifierref>g77169024438ef9a866e21715fc2360f2</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="gdf1373b92f83b3ee76cfa3e2d75cfcaf">
+    <title>Section 4: Applying Color in ADOBE Illustrator</title>
+    <workflow_state>active</workflow_state>
+    <position>5</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="gf8d26f0a001ea8a04d903f2f88c23f6a">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 4.1 - Color with Fill and Stroke</title>
+        <identifierref>g339b9de2c7a8546ced40e24c7733f8ee</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g0345bc95242d5f8d08a101425166b0b8">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 4.2 - Color Mixing and Swatches</title>
+        <identifierref>g15ba2779f90cee55d75458dadb478afd</identifierref>
+        <position>2</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g09ce7246d03ac6257c5937e0ade29f74">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Vide 4.3 - Color Libraries</title>
+        <identifierref>g1f004fb1ebc451dd7e08213b34cd7d68</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g649d9c153c3f10e2089ec6204dbcf060">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>active</workflow_state>
+        <title>ADOBE Color</title>
+        <identifierref>g649d9c153c3f10e2089ec6204dbcf060</identifierref>
+        <url>https://color.adobe.com/</url>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g18d1a61698b73d099ddfa1b651e0d2be">
+        <content_type>ExternalUrl</content_type>
+        <workflow_state>active</workflow_state>
+        <title>ADOBE Creative Cloud Libraries Overview</title>
+        <identifierref>g18d1a61698b73d099ddfa1b651e0d2be</identifierref>
+        <url>https://helpx.adobe.com/creative-cloud/apps/create-and-manage-libraries/create-and-organize-libraries/libraries-overview.html</url>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g04357a84144a4e48322c2e56d4aa9f4f">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Section 4 Quiz - Knowledge Check: Applying Color in ADOBE Illustrator</title>
+        <identifierref>g39628513e037092cc9d1738d59a3b429</identifierref>
+        <position>6</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+  <module identifier="g4e86617478265054ba12ba4cc9f0de3f">
+    <title>Section 5: Creating and Augmenting Shapes in ADOBE Illustrator</title>
+    <workflow_state>active</workflow_state>
+    <position>7</position>
+    <require_sequential_progress>false</require_sequential_progress>
+    <locked>false</locked>
+    <items>
+      <item identifier="g1fe8b6b6b4e5ba1bd82601dbfac228ae">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 5.1 - Templates and Layers</title>
+        <identifierref>ge5ae8b4266acee156b71d034d8a996d1</identifierref>
+        <position>1</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g4401734e5a377086c326c4eb047a3f93">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>monster.png</title>
+        <identifierref>g9195de1c38af245073523b670f0b1815</identifierref>
+        <position>2</position>
+        <new_tab/>
+        <indent>2</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g17f3dd8af71934f68ca02c22bf287581">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 5.2 - Shape, Selection Arrows, and Alignments</title>
+        <identifierref>g31a4bf740efe04ef2da30ae17e66dd45</identifierref>
+        <position>3</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="gf26dea3e5b16ff4f9d0943bf83e2699d">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 5.3 - Copying, Pasting, and Stretching Shapes</title>
+        <identifierref>g770a9502c4e1de386466b4e1a7d153cf</identifierref>
+        <position>4</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge62ed5268abb1ab0690dc1772917384f">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 5.4 - Shape Builder Tool - Combine Shapes</title>
+        <identifierref>g96047662272540137fb817b739586161</identifierref>
+        <position>5</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="ge177df3f81e5c2ad4dc7b6a6393dc1bc">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 5.5 - Shape Builder Tool - Cut Out Shapes</title>
+        <identifierref>gd57dc68c68de4a3ec887b9061ef3855b</identifierref>
+        <position>6</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g6b92a73a8b6c72d2f4e597739ebd5e54">
+        <content_type>Attachment</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Video 5.6 - Shape Builder Tool - Segment Shapes</title>
+        <identifierref>gd2e4e6b4e2579b3e33bff25bacf7d05b</identifierref>
+        <position>7</position>
+        <new_tab>false</new_tab>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+      <item identifier="g3dae94ae2e84ca4c33a370155b7ab298">
+        <content_type>Quizzes::Quiz</content_type>
+        <workflow_state>active</workflow_state>
+        <title>Section 5 Quiz - Knowledge Check: Creating and Augmenting Shapes in ADOBE Illustrator</title>
+        <identifierref>gc0a8303e17dec1d4253125cbbad1a807</identifierref>
+        <position>8</position>
+        <new_tab/>
+        <indent>0</indent>
+        <link_settings_json>null</link_settings_json>
+      </item>
+    </items>
+  </module>
+</modules>
