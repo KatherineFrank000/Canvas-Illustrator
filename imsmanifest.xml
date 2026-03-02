@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="gbbb318cf31a54dc5ca88d32778062502" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+  <metadata>
+    <schema>IMS Common Cartridge</schema>
+    <schemaversion>1.1.0</schemaversion>
+    <lomimscc:lom>
+      <lomimscc:general>
+        <lomimscc:title>
+          <lomimscc:string>Introductions to ADOBE Illustrator</lomimscc:string>
+        </lomimscc:title>
+      </lomimscc:general>
+      <lomimscc:lifeCycle>
+        <lomimscc:contribute>
+          <lomimscc:date>
+            <lomimscc:dateTime>2026-02-23</lomimscc:dateTime>
+          </lomimscc:date>
+        </lomimscc:contribute>
+      </lomimscc:lifeCycle>
+      <lomimscc:rights>
+        <lomimscc:copyrightAndOtherRestrictions>
+          <lomimscc:value>yes</lomimscc:value>
+        </lomimscc:copyrightAndOtherRestrictions>
+        <lomimscc:description>
+          <lomimscc:string>Private (Copyrighted) - http://en.wikipedia.org/wiki/Copyright</lomimscc:string>
+        </lomimscc:description>
+      </lomimscc:rights>
+    </lomimscc:lom>
+  </metadata>
+  <organizations>
+    <organization identifier="org_1" structure="rooted-hierarchy">
+      <item identifier="LearningModules">
+        <item identifier="gfce1a3786eaa62208196bf12c1a52ae8">
+          <title>Introduction</title>
+          <item identifier="ga14bdbfa2373940aa1ce51fca6207b39" identifierref="g8757f5e4ef5411a64bb3388de2607391">
+            <title>Video 1.1 - Introduction</title>
+          </item>
+        </item>
+        <item identifier="ga8275691329616b25d84c15f6e5ebd5f">
+          <title>Section 1: Welcome to the ADOBE Creative Cloud</title>
+          <item identifier="g237789d19b58e694b0692cd2358fe7d2" identifierref="gf33573b3520022434822302480beeb6b">
+            <title>Video 1.1 - Download the Software</title>
+          </item>
+          <item identifier="g1f935e3dcc743960d71dda85a9b7f9d3" identifierref="g99b928247520f64be5b8dd7f928d8680">
+            <title>Resources 1.1 - ADOBE Help Center</title>
+          </item>
+          <item identifier="g5813f158bb37af813dd850446193a6c7" identifierref="ga222e67cee481eb1c419d2da599c0fe8">
+            <title>Video 1.2 - Access the ADOBE Creative Cloud Account</title>
+          </item>
+          <item identifier="gc2a39e3ec416fff1923a0754140091f9" identifierref="g46678d9aa98dce050e62bef4c12015d2">
+            <title>Resource 1.2 - ADOBE Creative Cloud Storage</title>
+          </item>
+          <item identifier="gdc7037b8387e8c291247398f4edaa1b2" identifierref="gb84813ad57cc35e2c65b9cf079a33dd5">
+            <title>Resource 1.3 - Manage ADOBE Storage</title>
+          </item>
+          <item identifier="ga25c65856f0c7b147c509b39edee3612" identifierref="gcef172685a4fe5781187d22ed0ce92b0">
+            <title>Section 1 Quiz - Knowledge Check: Welcome to the ADOBE Creative Cloud </title>
+          </item>
+        </item>
+        <item identifier="ge4fce44189ebea8a889a0d68d9331e3b">
+          <title>Section 2: Getting to Know the ADOBE Illustrator Interface</title>
+          <item identifier="geb9007a3d954a648d8df0286d0fdba09" identifierref="gdb5e03859788ed43aee60cae3f46411f">
+            <title>Video 2.1 - Document Settings</title>
+          </item>
+          <item identifier="g67b9157404115d9bd3b2a90038e9677e" identifierref="gd9c87821f03ee46c6f138dfea299d654">
+            <title>Video 2.2 -Customize the Workspace</title>
+          </item>
+          <item identifier="gd438ced9d15d9ec926a25c4e6a627441" identifierref="g1ba0f56be61f13a1b813c867359dae60">
+            <title>Section 2 Quiz - Knowledge Check: Getting to Know the ADOBE Illustrator Interface</title>
+          </item>
+        </item>
+        <item identifier="g5b3852df441c1e10c3cee563bdf58e02">
+          <title>Section 3: Vector Graphics and File Types in ADOBE Illustrator</title>
+          <item identifier="g0464859f7ab4cb85a5db3b642108d7df" identifierref="g2c8b0237c4dd5f6c04bb9c0b580e3df9">
+            <title>Video 3.1 - Vector Graphics</title>
+          </item>
+          <item identifier="gcf694703765e01d4c9e761b4ecf70089" identifierref="g237bbe3039624443168dcfdf6cd12ef4">
+            <title>Video 3.2 - File Types</title>
+          </item>
+          <item identifier="g1d2406178ac1791a741a3106dcc20bb6" identifierref="g77169024438ef9a866e21715fc2360f2">
+            <title>Section 3 Quiz - Knowledge Check: Vector Graphics and File Types in ADOBE Illustrator</title>
+          </item>
+        </item>
+        <item identifier="gdf1373b92f83b3ee76cfa3e2d75cfcaf">
+          <title>Section 4: Applying Color in ADOBE Illustrator</title>
+          <item identifier="gf8d26f0a001ea8a04d903f2f88c23f6a" identifierref="g339b9de2c7a8546ced40e24c7733f8ee">
+            <title>Video 4.1 - Color with Fill and Stroke</title>
+          </item>
+          <item identifier="g0345bc95242d5f8d08a101425166b0b8" identifierref="g15ba2779f90cee55d75458dadb478afd">
+            <title>Video 4.2 - Color Mixing and Swatches</title>
+          </item>
+          <item identifier="g09ce7246d03ac6257c5937e0ade29f74" identifierref="g1f004fb1ebc451dd7e08213b34cd7d68">
+            <title>Vide 4.3 - Color Libraries</title>
+          </item>
+          <item identifier="g649d9c153c3f10e2089ec6204dbcf060" identifierref="g7ae4ca94784b90bf077f2b56376b6ac8">
+            <title>ADOBE Color</title>
+          </item>
+          <item identifier="g18d1a61698b73d099ddfa1b651e0d2be" identifierref="g019f3511662e47f22fcf5e455cba0976">
+            <title>ADOBE Creative Cloud Libraries Overview</title>
+          </item>
+          <item identifier="g04357a84144a4e48322c2e56d4aa9f4f" identifierref="g39628513e037092cc9d1738d59a3b429">
+            <title>Section 4 Quiz - Knowledge Check: Applying Color in ADOBE Illustrator</title>
+          </item>
+        </item>
+        <item identifier="g4e86617478265054ba12ba4cc9f0de3f">
+          <title>Section 5: Creating and Augmenting Shapes in ADOBE Illustrator</title>
+          <item identifier="g1fe8b6b6b4e5ba1bd82601dbfac228ae" identifierref="ge5ae8b4266acee156b71d034d8a996d1">
+            <title>Video 5.1 - Templates and Layers</title>
+          </item>
+          <item identifier="g4401734e5a377086c326c4eb047a3f93" identifierref="g9195de1c38af245073523b670f0b1815">
+            <title>monster.png</title>
+          </item>
+          <item identifier="g17f3dd8af71934f68ca02c22bf287581" identifierref="g31a4bf740efe04ef2da30ae17e66dd45">
+            <title>Video 5.2 - Shape, Selection Arrows, and Alignments</title>
+          </item>
+          <item identifier="gf26dea3e5b16ff4f9d0943bf83e2699d" identifierref="g770a9502c4e1de386466b4e1a7d153cf">
+            <title>Video 5.3 - Copying, Pasting, and Stretching Shapes</title>
+          </item>
+          <item identifier="ge62ed5268abb1ab0690dc1772917384f" identifierref="g96047662272540137fb817b739586161">
+            <title>Video 5.4 - Shape Builder Tool - Combine Shapes</title>
+          </item>
+          <item identifier="ge177df3f81e5c2ad4dc7b6a6393dc1bc" identifierref="gd57dc68c68de4a3ec887b9061ef3855b">
+            <title>Video 5.5 - Shape Builder Tool - Cut Out Shapes</title>
+          </item>
+          <item identifier="g6b92a73a8b6c72d2f4e597739ebd5e54" identifierref="gd2e4e6b4e2579b3e33bff25bacf7d05b">
+            <title>Video 5.6 - Shape Builder Tool - Segment Shapes</title>
+          </item>
+          <item identifier="g3dae94ae2e84ca4c33a370155b7ab298" identifierref="gc0a8303e17dec1d4253125cbbad1a807">
+            <title>Section 5 Quiz - Knowledge Check: Creating and Augmenting Shapes in ADOBE Illustrator</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="g72ca0eb00583e4d9d5a7917e5089b127_syllabus" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/syllabus.html" intendeduse="syllabus">
+      <file href="course_settings/syllabus.html"/>
+    </resource>
+    <resource identifier="g72ca0eb00583e4d9d5a7917e5089b127" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="course_settings/canvas_export.txt">
+      <file href="course_settings/course_settings.xml"/>
+      <file href="course_settings/module_meta.xml"/>
+      <file href="course_settings/assignment_groups.xml"/>
+      <file href="course_settings/files_meta.xml"/>
+      <file href="course_settings/context.xml"/>
+      <file href="course_settings/media_tracks.xml"/>
+      <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="g99b928247520f64be5b8dd7f928d8680" type="imswl_xmlv1p1">
+      <file href="g99b928247520f64be5b8dd7f928d8680.xml"/>
+    </resource>
+    <resource identifier="g46678d9aa98dce050e62bef4c12015d2" type="imswl_xmlv1p1">
+      <file href="g46678d9aa98dce050e62bef4c12015d2.xml"/>
+    </resource>
+    <resource identifier="gb84813ad57cc35e2c65b9cf079a33dd5" type="imswl_xmlv1p1">
+      <file href="gb84813ad57cc35e2c65b9cf079a33dd5.xml"/>
+    </resource>
+    <resource identifier="g7ae4ca94784b90bf077f2b56376b6ac8" type="imswl_xmlv1p1">
+      <file href="g7ae4ca94784b90bf077f2b56376b6ac8.xml"/>
+    </resource>
+    <resource identifier="g019f3511662e47f22fcf5e455cba0976" type="imswl_xmlv1p1">
+      <file href="g019f3511662e47f22fcf5e455cba0976.xml"/>
+    </resource>
+    <resource identifier="gcef172685a4fe5781187d22ed0ce92b0" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="gcef172685a4fe5781187d22ed0ce92b0/assessment_qti.xml"/>
+      <dependency identifierref="i4f612acb29ee6ac5b0f61dc73aa93ffd"/>
+    </resource>
+    <resource identifier="i4f612acb29ee6ac5b0f61dc73aa93ffd" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gcef172685a4fe5781187d22ed0ce92b0/assessment_meta.xml">
+      <file href="gcef172685a4fe5781187d22ed0ce92b0/assessment_meta.xml"/>
+      <file href="non_cc_assessments/gcef172685a4fe5781187d22ed0ce92b0.xml.qti"/>
+    </resource>
+    <resource identifier="g77169024438ef9a866e21715fc2360f2" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g77169024438ef9a866e21715fc2360f2/assessment_qti.xml"/>
+      <dependency identifierref="if99555b86351eddbf88d599714ab7180"/>
+    </resource>
+    <resource identifier="if99555b86351eddbf88d599714ab7180" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g77169024438ef9a866e21715fc2360f2/assessment_meta.xml">
+      <file href="g77169024438ef9a866e21715fc2360f2/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g77169024438ef9a866e21715fc2360f2.xml.qti"/>
+    </resource>
+    <resource identifier="g1ba0f56be61f13a1b813c867359dae60" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g1ba0f56be61f13a1b813c867359dae60/assessment_qti.xml"/>
+      <dependency identifierref="i44d9793df9818914b2abc458585b641c"/>
+    </resource>
+    <resource identifier="i44d9793df9818914b2abc458585b641c" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g1ba0f56be61f13a1b813c867359dae60/assessment_meta.xml">
+      <file href="g1ba0f56be61f13a1b813c867359dae60/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g1ba0f56be61f13a1b813c867359dae60.xml.qti"/>
+    </resource>
+    <resource identifier="gc0a8303e17dec1d4253125cbbad1a807" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="gc0a8303e17dec1d4253125cbbad1a807/assessment_qti.xml"/>
+      <dependency identifierref="i3923223359fbc279dd857a80bc9c1768"/>
+    </resource>
+    <resource identifier="i3923223359fbc279dd857a80bc9c1768" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="gc0a8303e17dec1d4253125cbbad1a807/assessment_meta.xml">
+      <file href="gc0a8303e17dec1d4253125cbbad1a807/assessment_meta.xml"/>
+      <file href="non_cc_assessments/gc0a8303e17dec1d4253125cbbad1a807.xml.qti"/>
+    </resource>
+    <resource identifier="g39628513e037092cc9d1738d59a3b429" type="imsqti_xmlv1p2/imscc_xmlv1p1/assessment">
+      <file href="g39628513e037092cc9d1738d59a3b429/assessment_qti.xml"/>
+      <dependency identifierref="i0943d695a9618ff1eb86e772aab64a58"/>
+    </resource>
+    <resource identifier="i0943d695a9618ff1eb86e772aab64a58" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="g39628513e037092cc9d1738d59a3b429/assessment_meta.xml">
+      <file href="g39628513e037092cc9d1738d59a3b429/assessment_meta.xml"/>
+      <file href="non_cc_assessments/g39628513e037092cc9d1738d59a3b429.xml.qti"/>
+    </resource>
+    <resource type="webcontent" identifier="g8757f5e4ef5411a64bb3388de2607391" href="web_resources/1 Intro - ABODE Illustrator (Video).mp4">
+      <file href="web_resources/1 Intro - ABODE Illustrator (Video).mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gf33573b3520022434822302480beeb6b" href="web_resources/2.1 Welcome to the ADOBE Creative Cloud (Video).mp4">
+      <file href="web_resources/2.1 Welcome to the ADOBE Creative Cloud (Video).mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="ga222e67cee481eb1c419d2da599c0fe8" href="web_resources/2.2 Welcome to the ADOBE Creative Cloud (Video).mp4">
+      <file href="web_resources/2.2 Welcome to the ADOBE Creative Cloud (Video).mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gdb5e03859788ed43aee60cae3f46411f" href="web_resources/3.1 Getting to Know the ADOBE Illustrator Interface.mp4">
+      <file href="web_resources/3.1 Getting to Know the ADOBE Illustrator Interface.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gd9c87821f03ee46c6f138dfea299d654" href="web_resources/3.2 Getting to Know the ADOBE Illustrator Interface.mp4">
+      <file href="web_resources/3.2 Getting to Know the ADOBE Illustrator Interface.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g2c8b0237c4dd5f6c04bb9c0b580e3df9" href="web_resources/4.1 Vector Graphics.mp4">
+      <file href="web_resources/4.1 Vector Graphics.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g237bbe3039624443168dcfdf6cd12ef4" href="web_resources/4.2 File Types.mp4">
+      <file href="web_resources/4.2 File Types.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g339b9de2c7a8546ced40e24c7733f8ee" href="web_resources/5.1 Color with Fill and Stroke.mp4">
+      <file href="web_resources/5.1 Color with Fill and Stroke.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g15ba2779f90cee55d75458dadb478afd" href="web_resources/5.2 Color Mixing and Swatches.mp4">
+      <file href="web_resources/5.2 Color Mixing and Swatches.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g1f004fb1ebc451dd7e08213b34cd7d68" href="web_resources/5.3 Color Libraries.mp4">
+      <file href="web_resources/5.3 Color Libraries.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gd2e4e6b4e2579b3e33bff25bacf7d05b" href="web_resources/6.6 Shape Builder Tool - Segment Shapes.mp4">
+      <file href="web_resources/6.6 Shape Builder Tool - Segment Shapes.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="gd57dc68c68de4a3ec887b9061ef3855b" href="web_resources/6.5 Shape Builder Tool - Cut Out Shapes.mp4">
+      <file href="web_resources/6.5 Shape Builder Tool - Cut Out Shapes.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g96047662272540137fb817b739586161" href="web_resources/6.4 Shape Builder Tool - Combine Shapes.mp4">
+      <file href="web_resources/6.4 Shape Builder Tool - Combine Shapes.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g770a9502c4e1de386466b4e1a7d153cf" href="web_resources/6.3 Copying, Pasting, and Stretching Shapes.mp4">
+      <file href="web_resources/6.3 Copying, Pasting, and Stretching Shapes.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g31a4bf740efe04ef2da30ae17e66dd45" href="web_resources/6.2 Shape, Selection Arrows, and Alignments.mp4">
+      <file href="web_resources/6.2 Shape, Selection Arrows, and Alignments.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="ge5ae8b4266acee156b71d034d8a996d1" href="web_resources/6.1 Templates and Layers.mp4">
+      <file href="web_resources/6.1 Templates and Layers.mp4"/>
+    </resource>
+    <resource type="webcontent" identifier="g9195de1c38af245073523b670f0b1815" href="web_resources/monster.png">
+      <file href="web_resources/monster.png"/>
+    </resource>
+    <resource type="webcontent" identifier="g9ae2babf1f2fcb5ae3282cb85928eeea" href="web_resources/course_image/intro.png">
+      <file href="web_resources/course_image/intro.png"/>
+    </resource>
+    <resource type="webcontent" identifier="ge6adeb63913d4895378e671ab73834b6" href="web_resources/Uploaded Media/2.png">
+      <file href="web_resources/Uploaded Media/2.png"/>
+    </resource>
+  </resources>
+</manifest>
