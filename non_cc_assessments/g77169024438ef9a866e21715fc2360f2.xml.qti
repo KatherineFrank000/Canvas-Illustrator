@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g77169024438ef9a866e21715fc2360f2" title="Section 3 Quiz - Knowledge Check: Vector Graphics and File Types in ADOBE Illustrator" external_assignment_id="62505667">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="22850399a7a27604106fe9c2cb55b215" title="Quiz #3 - Question #1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1af3a938-bc01-4fd2-9e03-0f517135533c,bbd66993-a7f3-4a57-a768-544ac40eb5d3,076a2e1c-3ad8-4d97-838e-a1b6cbae1952,a8f2a708-1d3c-400d-a2da-9ec3be3777e7</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>0472227957e819ad829690ff88ee9167</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What are the most commonly used picture file formats that may be exported from ADOBE Illustrator?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="1af3a938-bc01-4fd2-9e03-0f517135533c">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;JPEG, PDF, MPEG&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="bbd66993-a7f3-4a57-a768-544ac40eb5d3">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;PSD, JPEG, PPT, SVG&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="076a2e1c-3ad8-4d97-838e-a1b6cbae1952">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;JPEG, PNG, WebP, TIFF&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="a8f2a708-1d3c-400d-a2da-9ec3be3777e7">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;PSD, JPEG, TXT, PNG&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">076a2e1c-3ad8-4d97-838e-a1b6cbae1952</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="84b7334a245c7ad32988e20a10e659a2" title="Quiz #3 - Question #2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5208466d-db89-498c-b5f5-786eff14e9c8,af6b9b2c-3c7d-4c2f-ba7f-93d74a2e979c,01c7af91-7122-4a8a-93a3-70b13dee311b,a650086c-2179-450b-a2ec-e88cc10f1b92</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>a7e863475fc0163e2d423ee00a179d37</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How are vector graphics different from raster graphics?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="5208466d-db89-498c-b5f5-786eff14e9c8">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Raster graphics are better color quality.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="af6b9b2c-3c7d-4c2f-ba7f-93d74a2e979c">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Vector graphics are able to be resized without becoming pixelated.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="01c7af91-7122-4a8a-93a3-70b13dee311b">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Vector graphics save a larger file size than raster graphics.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="a650086c-2179-450b-a2ec-e88cc10f1b92">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Only raster graphics are able to be opened in ADOBE Illustrator.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">af6b9b2c-3c7d-4c2f-ba7f-93d74a2e979c</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="c36c9aaf8607490753e1d0ce11e15ed6" title="Quiz #3 - Question #3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>2d51f982-91e6-4249-b5c8-15f92c7996a6,1850ada2-3ade-4c6b-baac-db8abf4c64f6,f07f3926-2a68-4f2a-b348-126cc0b06215,c5c77056-bb3d-45fe-875f-918d12ce2d38</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>72d3ec07844f9cd148801eebed7103d6</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What is the advantage of saving a file in ADOBE Illustrator as the default .AI file format?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="2d51f982-91e6-4249-b5c8-15f92c7996a6">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The .AI file format is a more compressed file format and thus easy to send through email.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1850ada2-3ade-4c6b-baac-db8abf4c64f6">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The .AI file format is portable and thus able to be read by most file readers.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="f07f3926-2a68-4f2a-b348-126cc0b06215">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The .AI file format is the only file format able to be saved to the Creative Cloud portal.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="c5c77056-bb3d-45fe-875f-918d12ce2d38">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The .AI file format will retain all layer information along with path and anchor information.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">c5c77056-bb3d-45fe-875f-918d12ce2d38</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gcef172685a4fe5781187d22ed0ce92b0" title="Section 1 Quiz - Knowledge Check: Welcome to the ADOBE Creative Cloud" external_assignment_id="62505615">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="41db77c57781480154bbeb4665e57323" title="Quiz #1 - Question #1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>e00b0523-d6bb-4568-a729-831fa2fe9577,7b3c25f9-5824-4cfb-834a-5590564d6f6b,35eaa5f9-ccae-4398-9a48-6d6800a8f4e4,85ab41fa-ccac-4424-a9e9-65cc69409ada</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>0707fb40baa1b5aa7e39846a74ba9dd7</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Using an Enterprise Account, how do you install the ADOBE Creative Cloud software?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="e00b0523-d6bb-4568-a729-831fa2fe9577">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to Adobe.com and click on Enterprise Account.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7b3c25f9-5824-4cfb-834a-5590564d6f6b">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to the ADOBE Enterprise portal and click Download software.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="35eaa5f9-ccae-4398-9a48-6d6800a8f4e4">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to the Apple Store and search for ADOBE Creative Cloud to download.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="85ab41fa-ccac-4424-a9e9-65cc69409ada">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Use the link to &#x201C;Get Started&#x201D; that was sent to the email associated with the account.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">85ab41fa-ccac-4424-a9e9-65cc69409ada</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="37cc7f9e8a145aebd1c6ecec887797d9" title="Quiz #1 - Question #2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>f1a72b1d-8d1a-4ba7-817f-d1e89e6b57e0,8269942b-8f5b-4bfd-a174-e55950780b5a,1f5c5386-abc2-45b1-b222-4b7f8c77235b,22eef299-57db-4c04-b9e5-87929e5bf2ea</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>1a19d00989a0b3155bd3da6e2dec2616</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How do you open ADOBE Illustrator associated with the correct Enterprise Account?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="f1a72b1d-8d1a-4ba7-817f-d1e89e6b57e0">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to ADOBE.com and log into your account before opening the ADOBE Illustrator software.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8269942b-8f5b-4bfd-a174-e55950780b5a">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;First, make sure that all ADOBE software is closed. Then, log in through the Creative Cloud app using the associated email address. After logging into the Creative Cloud, open ADOBE Illustrator.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1f5c5386-abc2-45b1-b222-4b7f8c77235b">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to the Applications folder on your computer and open the ADOBE Illustrator software.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="22eef299-57db-4c04-b9e5-87929e5bf2ea">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to the Creative Cloud and open ADOBE Illustrator from the list.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">8269942b-8f5b-4bfd-a174-e55950780b5a</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ff0dd2c5f419908b9a1912cba049055e" title="Quiz #1 - Questions #3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>a375f54a-698a-4a32-8ca7-292e01517b81,1444ef29-1368-47a4-9c0a-ded62a20fbd0,b018b182-c744-4445-8a0a-141ac33b024d,db24da09-391d-4f5f-8fa6-ed69acc643cb</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>842e5b60cef2f0a1a7f674ac4b70cc4b</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How do you know that you are logged into the correct Enterprise Account?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="a375f54a-698a-4a32-8ca7-292e01517b81">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to Help on the main menu at the top to see if the email address is correct.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1444ef29-1368-47a4-9c0a-ded62a20fbd0">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Inside the ADOBE Illustrator software, go to Windows on your main menu and check to see if the email address is correct.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="b018b182-c744-4445-8a0a-141ac33b024d">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to ADOBE.com and check that to see if the correct email address is logged in.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="db24da09-391d-4f5f-8fa6-ed69acc643cb">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to the Applications folder on your computer and right click on the Creative Cloud app to see the email address that is associated with the Creative Cloud account.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">a375f54a-698a-4a32-8ca7-292e01517b81</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="12d2f572d18637c23f2a53e65ab24263" title="Quiz #1 - Question #4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>081dee9b-e541-4d35-8751-5ac71602321a,66efb360-26e1-4ece-8c2e-288f1ff95a82,1a8d427c-e584-441f-b9cb-c89f08a763df,4dd9d824-9ee2-4339-bc6e-1597c4ea6c0b</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>98071ddfc36eee229cb6c7df41aefb7f</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How do you effectively log out of the ADOBE Creative Cloud so that other users may log in on the same computer?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="081dee9b-e541-4d35-8751-5ac71602321a">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;First, quit all ADOBE applications. Next, go to the Creative Cloud app and click Sign Out in the top right corner.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="66efb360-26e1-4ece-8c2e-288f1ff95a82">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;In the software, go to Help on the main menu. Click Sign Out.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1a8d427c-e584-441f-b9cb-c89f08a763df">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to the Creative Cloud app and click Sign Out in the top right corner.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4dd9d824-9ee2-4339-bc6e-1597c4ea6c0b">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Simply quit the ADOBE software.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">081dee9b-e541-4d35-8751-5ac71602321a</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

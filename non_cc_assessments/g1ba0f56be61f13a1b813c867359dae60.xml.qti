@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g1ba0f56be61f13a1b813c867359dae60" title="Section 2 Quiz - Knowledge Check: Getting to Know the ADOBE Illustrator Interface" external_assignment_id="62505651">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="725b41b41244b9752bdc483017a2a50c" title="Quiz #2 - Question 1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>e1f347e2-ded3-4bde-8153-97b7b0393aba,b68b0b17-3411-4bd5-9509-5fc14515b29f,2a0dc66b-50bf-40e2-9917-0e2ad8028113,c874bc5b-e167-47bd-8272-47d8e42e27e8</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>e263efac8950557d9df9bfb82040aff4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How would you open the maximum view to see all your tools if they were not visible on the screen?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="e1f347e2-ded3-4bde-8153-97b7b0393aba">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to View &amp;gt; Toolbar&amp;gt; Advanced&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="b68b0b17-3411-4bd5-9509-5fc14515b29f">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to Window &amp;gt; Toolbar &amp;gt; Advanced&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2a0dc66b-50bf-40e2-9917-0e2ad8028113">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to File &amp;gt; Toolbar &amp;gt; Basic&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="c874bc5b-e167-47bd-8272-47d8e42e27e8">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to Window &amp;gt; Toolbar &amp;gt; Basic&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">b68b0b17-3411-4bd5-9509-5fc14515b29f</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="3cdea29bb6dffdd6c2bfde1eab680ecf" title="Quiz #2 - Question #2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>755a7f14-ab0c-4317-875e-f2c2035b5d8e,5f37c7ab-9adf-4aaf-9052-0989f5da9304,33b3045f-b023-4255-ad2a-c15ed60d11c8,6e7aa7a1-8e3b-469c-9cf8-91f75d96d1cf</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>0e338581ee336bfbfa22191d01d6c302</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Why would you want to save a New Workspace?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="755a7f14-ab0c-4317-875e-f2c2035b5d8e">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Workspaces lock your preference windows so that you are unable to add any new windows.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5f37c7ab-9adf-4aaf-9052-0989f5da9304">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Saving a new workspace is a good way to restrict your design tasks into a routine.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="33b3045f-b023-4255-ad2a-c15ed60d11c8">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Creating a New Workspace is a required step in opening a new document in ADOBE Illustrator.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6e7aa7a1-8e3b-469c-9cf8-91f75d96d1cf">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Each illustration project may call for certain design preferences, so saving a New Workspace allows you to customize which windows are visible.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">6e7aa7a1-8e3b-469c-9cf8-91f75d96d1cf</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="1916427e51e3975ba51c233343dd0522" title="Quiz #2 - Question #3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>467c6cdd-7e9d-4466-87a6-a70c44f6dd0a,9ae0eb5f-b9a9-49d8-b0d4-c86893e14e65,a11af042-f5a4-470e-a397-fa12eb7f93b8,6ad4ad34-f3b0-4225-894f-23e727db7122</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>118bd12ddcbb0f087fc7ce05aeb0fa3e</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Which windows are suggested to be visible when working with text?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="467c6cdd-7e9d-4466-87a6-a70c44f6dd0a">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The suggested windows when working with text are Paragraph and Character.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9ae0eb5f-b9a9-49d8-b0d4-c86893e14e65">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The suggested windows when working with text are Artboard and Character.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="a11af042-f5a4-470e-a397-fa12eb7f93b8">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The suggested windows when working with text are Type and Paragraph.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6ad4ad34-f3b0-4225-894f-23e727db7122">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The suggested windows when working with text are Type and Character.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">467c6cdd-7e9d-4466-87a6-a70c44f6dd0a</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="b2906f6e23a4daa279f7373a8ef7e160" title="Quiz #2 - Question #4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>fd7eae05-fdc3-45ac-8c3f-5db5d0d98b01,8c987fdd-b5ce-4e24-a84b-d3f3ef166b3b,c78fa625-ee23-4458-af1a-36f39c4d7dd2,47823cba-3b4e-421f-9e42-db48d01dc4ef</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>a9364c9c7594c5ba933530e3a35c6e4e</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;You do not see the Control Bar at the top of your screen, so you are unable to access preferences specific to each of the tools. How do you solve this problem?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="fd7eae05-fdc3-45ac-8c3f-5db5d0d98b01">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Select a tool from the Toolbar and hold the CTRL button.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8c987fdd-b5ce-4e24-a84b-d3f3ef166b3b">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to Window &amp;gt; Control to open the Control Bar.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="c78fa625-ee23-4458-af1a-36f39c4d7dd2">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Go to Window &amp;gt; Navigator and click the tool on the Toolbar.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="47823cba-3b4e-421f-9e42-db48d01dc4ef">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Select a tool from the Toolbar and hold the OPTION button.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">8c987fdd-b5ce-4e24-a84b-d3f3ef166b3b</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

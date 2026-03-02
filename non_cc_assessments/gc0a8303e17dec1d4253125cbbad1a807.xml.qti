@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gc0a8303e17dec1d4253125cbbad1a807" title="Section 5 Quiz - Knowledge Check: Creating and Augmenting Shapes in ADOBE Illustrator" external_assignment_id="62510157">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="259cfdbca5fcf9558bbfe70184e303d4" title="Quiz #5 - Question #1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>b884aa58-1478-42e6-a32e-7571ba7e9151,feb6e752-a684-4eb5-a492-6f3cbc71336d,2553f9d4-cfad-4b37-bef5-42045d87e039,873ebba4-d767-4156-999b-3c484bd0c580</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>a9c3ef502a76168397831df64ff2e8ff</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How are you able to put shapes in front or in back of other shapes for visibility?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="b884aa58-1478-42e6-a32e-7571ba7e9151">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Right click &amp;gt; Move Up / Move Down with the arrows.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="feb6e752-a684-4eb5-a492-6f3cbc71336d">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;In the layers window, click on the layer and drag it below the other layers.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2553f9d4-cfad-4b37-bef5-42045d87e039">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Delete the layers.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="873ebba4-d767-4156-999b-3c484bd0c580">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Hold Shift + M and use the up or down arrows.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">feb6e752-a684-4eb5-a492-6f3cbc71336d</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="cbaf25a0e2e17c691a0363e68be818ec" title="Quiz #5 - Question #2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>495a550f-d656-439a-9d66-3c8689db07ad,b62c6863-9256-4bce-8980-8b7a3b73bdfe,5798547f-43df-49f9-a467-2da7fe42cbb3,d5b9401b-ee9c-4d84-9a5b-998652caaa02</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>24d9664d69f9efc7d1bfacaff6e5211a</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What are the three functions of the Shape Builder tool?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="495a550f-d656-439a-9d66-3c8689db07ad">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The Shape Builder tool duplicates shapes, combines shapes, and deletes parts of shapes.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="b62c6863-9256-4bce-8980-8b7a3b73bdfe">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The Shape Builder tool cuts pieces out of shapes, duplicates shapes, combines shapes.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5798547f-43df-49f9-a467-2da7fe42cbb3">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The Shape Builder tool aligns shapes on an axis, subtracts parts of shapes, and segments shapes.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="d5b9401b-ee9c-4d84-9a5b-998652caaa02">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The Shape Builder tool combines shapes into one shape, subtracts parts of shape, and breaks shapes apart where they intersect.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">d5b9401b-ee9c-4d84-9a5b-998652caaa02</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="0a26b42acfad723b6b4af5bcc0e2673c" title="Quiz #5 - Question #3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4eba5dbf-7478-4bfb-967c-89889c65ff0c,d5f8ed38-9315-4c38-b35f-08291424f3e2,757a978e-92b5-49f4-8491-719a097a3b02,48f804ed-2e29-417a-a6e7-3a11c345fd65</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>1f656af58b5c26d14dff7dfab47450fe</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;How do you round only one corner of a shape?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="4eba5dbf-7478-4bfb-967c-89889c65ff0c">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Select only one corner of the shape using the white arrow. Pull on the small circle in the corner of the shape to create an arc.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="d5f8ed38-9315-4c38-b35f-08291424f3e2">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Use the path tool and drag the corner points to an arc.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="757a978e-92b5-49f4-8491-719a097a3b02">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Select only one corner of the shape using the black arrow. Pull on the small circle in the corner of the shape to create an arc.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48f804ed-2e29-417a-a6e7-3a11c345fd65">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Use the arc tool to pull the corner of the shape into an arc.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4eba5dbf-7478-4bfb-967c-89889c65ff0c</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="0e3ff01345657b4f59d43e6ad45e5d6b" title="Quiz #5 - Question #4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>f983b295-3c0a-4ab2-99a7-767f7b261b26,eb37914d-3b00-49f1-9995-904388dea776,4966580e-030b-4330-a9c4-c39f230fc18e,a636e630-3ee5-4756-89c8-abb40cfb2647</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>8e824f673e6ac3a9e8417ca36f464fdd</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;If you choose the polygon tool and click on the page one time, what will happen?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="f983b295-3c0a-4ab2-99a7-767f7b261b26">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The polygon tool switches to the star tool.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="eb37914d-3b00-49f1-9995-904388dea776">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;A dialogue box appears asking you to fill in the number of sides you would like on your polygon.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4966580e-030b-4330-a9c4-c39f230fc18e">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The polygon will have No Fill.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="a636e630-3ee5-4756-89c8-abb40cfb2647">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The polygon will duplicate.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">eb37914d-3b00-49f1-9995-904388dea776</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="1829c088576143d7e9064188ea5ec8c5" title="Quiz #5 - Question #5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>fec00a11-d390-466b-b1b0-188e05d2de7f,a6a44fd4-9a31-4e8a-a249-e45db24652b6,da491ce0-ce42-4f11-aa3e-04f1d030457e,ed7688ed-c0d7-48e3-96fc-0d41271d5b03</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>eaa66861c2596d79142be18ba0ff64eb</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What is created when you choose the ellipse tool and hold shift when drawing the shape?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="fec00a11-d390-466b-b1b0-188e05d2de7f">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;A large ellipse is drawn.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="a6a44fd4-9a31-4e8a-a249-e45db24652b6">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;A perfect circle is drawn.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="da491ce0-ce42-4f11-aa3e-04f1d030457e">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;A small ellipse is drawn.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="ed7688ed-c0d7-48e3-96fc-0d41271d5b03">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Two ellipses will be drawn at the same time.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">a6a44fd4-9a31-4e8a-a249-e45db24652b6</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

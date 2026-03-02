@@ -1,0 +1,391 @@
+<?xml version="1.0"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g39628513e037092cc9d1738d59a3b429" title="Section 4 Quiz - Knowledge Check: Applying Color in ADOBE Illustrator" external_assignment_id="62510033">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="978bffd3d735324a5952fadee4e5e443" title="Quiz #4 - Question #1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4f87c837-d99a-4b9f-9194-e6bd024b7707,69f1a41a-4e49-42cb-8f72-1ac625b600fb,242f768d-e2b8-4b67-b396-2390762f12f2,d7dbf27a-7a3b-48d8-a6b9-59553c58bd91</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>7d58156a3590e25e37995ce3b3eae2b1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What color set would result from the following action?&lt;/p&gt;
+&lt;p&gt;Click on the fill box to bring it to the front and choose the white box with the red slash through it.&lt;/p&gt;
+&lt;p&gt;Next, click the stroke box to bring it to the front and choose the color red from the Color window.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="4f87c837-d99a-4b9f-9194-e6bd024b7707">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The object would have a white fill color with a red stroke.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69f1a41a-4e49-42cb-8f72-1ac625b600fb">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The object would have a red fill color with no stroke color.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="242f768d-e2b8-4b67-b396-2390762f12f2">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The object would have a no fill color with a red stroke.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="d7dbf27a-7a3b-48d8-a6b9-59553c58bd91">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;The object would have a white fill color with no stroke color.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">242f768d-e2b8-4b67-b396-2390762f12f2</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="3919f059a1d9c734d8d53d7d042c613a" title="Quiz #4 - Question #2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5a44539b-5df3-40af-8f59-fb2ee5b92a6e,16bdc5e5-d136-499a-9e3c-e013e6b5db65,89786963-135b-4486-99e2-80f07914e857,23848b5d-ab5f-476e-8f47-f65115bfd956</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>8e5c1208a6abc4aa48d0b5d2e32efe44</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Which color mode is best used for web-based design?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="5a44539b-5df3-40af-8f59-fb2ee5b92a6e">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;RGB&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="16bdc5e5-d136-499a-9e3c-e013e6b5db65">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;WebP&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89786963-135b-4486-99e2-80f07914e857">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;CMYK&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="23848b5d-ab5f-476e-8f47-f65115bfd956">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;GIF&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">5a44539b-5df3-40af-8f59-fb2ee5b92a6e</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="e93ac161f0f6c3d5a501d8bea999fbe0" title="Quiz #4 - Question #3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>c931666b-466d-4d13-8f10-85dc9aa835c8,def72578-cf72-453c-964c-f4091ce0c313</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>1f9f5d7fbdee2615bc702f554d3fe1a3</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The purpose of saving to your ADOBE libraries is to make workflow more efficient and allow you access libraries across the ADOBE applications.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="c931666b-466d-4d13-8f10-85dc9aa835c8">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;True&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="def72578-cf72-453c-964c-f4091ce0c313">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;False&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">c931666b-466d-4d13-8f10-85dc9aa835c8</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="28ff821b803471545654c80864cfd753" title="Quiz #4 - Question #4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>547db0a7-773d-45fe-ab02-a225ce69c783,b92e73ee-c422-4581-b3e7-62b32b5e9ab9,a3520e65-16e7-4825-8db1-ce681a5ffd4c,a5905de4-f542-44bf-ad5e-679956fd75cb</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>9df885597f0ced2d996e0c131f2c801e</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;The ADOBE Color site allows users to&#x2026;&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="547db0a7-773d-45fe-ab02-a225ce69c783">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Mix their own color themes.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="b92e73ee-c422-4581-b3e7-62b32b5e9ab9">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Extract color themes from uploaded photo files&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="a3520e65-16e7-4825-8db1-ce681a5ffd4c">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Save trending color themes to libraries.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="a5905de4-f542-44bf-ad5e-679956fd75cb">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;All of the above.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">a5905de4-f542-44bf-ad5e-679956fd75cb</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="3cb893cc26e7cb9ebe238b5ae3077707" title="Quiz #4 - Question #5">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4401554a-5095-4f97-a676-f076ef2b4874,b524aefe-6eb6-4897-8154-b1190d5747d3</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>e54e246c35844bb7359e8041f2a5c16e</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;Color themes saved in a user library are able to be saved to the swatches window.&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="4401554a-5095-4f97-a676-f076ef2b4874">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;True&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="b524aefe-6eb6-4897-8154-b1190d5747d3">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;False&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4401554a-5095-4f97-a676-f076ef2b4874</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="575675d96f2af07ac40bdbe0893f4225" title="Quiz #4 - Question #6">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>222a0e5d-79c4-43e1-a6e1-2fe342b9f6d6,258451f6-8e5d-4a5e-b31b-f5239282e671,60285808-2718-4a39-bf4f-9dce46a92a13,689dff64-5814-4149-9a4d-9d328a896612</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>39635a8eb4fdd33034a964e4242d5785</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>calculator_type</fieldlabel>
+              <fieldentry>none</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;p&gt;What would be the easiest way to match a web color using the ADOBE Color site?&lt;/p&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="222a0e5d-79c4-43e1-a6e1-2fe342b9f6d6">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Enter the ratios for RGB color values.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="258451f6-8e5d-4a5e-b31b-f5239282e671">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Enter the HEX code.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60285808-2718-4a39-bf4f-9dce46a92a13">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Use the eyedropper tool.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+              <response_label ident="689dff64-5814-4149-9a4d-9d328a896612">
+                <material>
+                  <mattext texttype="text/html">&lt;p&gt;Enter the ratios for CMYK color values.&lt;/p&gt;</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">258451f6-8e5d-4a5e-b31b-f5239282e671</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
